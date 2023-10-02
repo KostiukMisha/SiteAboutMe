@@ -71,6 +71,18 @@ footer{
     transition: all .5s;
 }
 
+.foothref{
+    transition: all .5s;
+}
+
 .foothref:hover {
     transform: scale(1.5);
+}
+
+.primarytext{
+    transition: all .5s;    
+}
+
+.primarytext:hover {
+    transform: scale(1.2);
 }
